@@ -27,6 +27,7 @@ A console-based **Library Management System** built using **C++** and the **MySQ
 ---
 
 ## 📂 Project Structure
+```
 Library-Management-UsingMySQL/
 │
 ├── main.cpp # Main application logic
@@ -35,7 +36,7 @@ Library-Management-UsingMySQL/
 └── mysql-connector-c-6.1.11-winx64/
 ├── include/ # MySQL header files (e.g. mysql.h)
 └── lib/ # MySQL library files
-
+```
 ---
 
 ## 🛠️ Setup Instructions
