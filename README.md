@@ -70,13 +70,13 @@ const char* USER = "root";
 const char* PW   = "abc123#";
 const char* DB   = "mydb";
 ```
-###4. 🧑‍💻 Compile the Project
+### 4. 🧑‍💻 Compile the Project
 ```
 g++ main.cpp -o LibraryApp.exe ^
   -I"C:\mysql-connector-c-6.1.11-winx64\include" ^
   -L"C:\mysql-connector-c-6.1.11-winx64\lib" ^
   -lmysql
 ```
-###5. ▶️ Run the Application
+### 5. ▶️ Run the Application
 ```
 ./LibraryApp.exe
